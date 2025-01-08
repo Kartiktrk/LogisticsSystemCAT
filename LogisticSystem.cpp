@@ -153,7 +153,7 @@ public:
 
 // Function to display the menu
 void displayMenu() {
-    cout << "\n--- Logistics System Menu ---\n";
+    cout << "\n--- CAT Logistics System Menu ---\n";
     cout << "1. Add Vehicle\n";
     cout << "2. Add Shipment\n";
     cout << "3. Add Route\n";
